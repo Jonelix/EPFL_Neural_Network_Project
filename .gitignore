@@ -1,0 +1,7 @@
+data/
+__pycache__/
+trained_models/
+trained_models_test/
+.vscode/
+.venv/
+myTorch/
